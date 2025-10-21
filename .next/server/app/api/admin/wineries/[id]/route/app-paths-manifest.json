@@ -1,0 +1,3 @@
+{
+  "/api/admin/wineries/[id]/route": "app/api/admin/wineries/[id]/route.js"
+}

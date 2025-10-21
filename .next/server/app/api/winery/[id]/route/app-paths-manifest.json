@@ -1,0 +1,3 @@
+{
+  "/api/winery/[id]/route": "app/api/winery/[id]/route.js"
+}

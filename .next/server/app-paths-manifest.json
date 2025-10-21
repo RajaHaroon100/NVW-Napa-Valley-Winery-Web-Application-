@@ -1,0 +1,15 @@
+{
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/winery/route": "app/api/winery/route.js",
+  "/api/me/route": "app/api/me/route.js",
+  "/winery/[id]/page": "app/winery/[id]/page.js",
+  "/api/winery/[id]/route": "app/api/winery/[id]/route.js",
+  "/bookings/page": "app/bookings/page.js",
+  "/api/itinerary/book/route": "app/api/itinerary/book/route.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/api/admin/bookings/route": "app/api/admin/bookings/route.js",
+  "/admin/dashboard/winery/list/page": "app/admin/dashboard/winery/list/page.js",
+  "/api/admin/wineries/route": "app/api/admin/wineries/route.js",
+  "/admin/dashboard/winery/page": "app/admin/dashboard/winery/page.js"
+}
